@@ -1,5 +1,5 @@
 {
-  "name": "HangmanApp",
+  "name": "Hangman",
   "version": "1.0.0",
   "description": "game",
   "main": "index.js",
