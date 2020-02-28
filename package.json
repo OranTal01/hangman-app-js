@@ -7,7 +7,8 @@
   "author": "Oran",
   "license": "MIT",
   "engines": {
-    "node": "12.16.1"
+    "node": "12.16.1",
+    "yarn": "1.12.3"
   },
   "scripts": {
     "dev-server": "webpack-dev-server --mode development",
